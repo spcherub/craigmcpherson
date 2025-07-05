@@ -1,0 +1,5 @@
+#!/bin/bash
+
+#find . -name '*.html' -print0 | xargs -0 sed -i "" "s/stylesheet.php\%3Fcssid=43\&amp;mediatype=print,screen/43/g"
+find . -name '*.html' -print0 | xargs -0 sed -i "" "s/stylesheet.php\%3Fcssid\=//g"
+

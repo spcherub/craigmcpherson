@@ -1,0 +1,16 @@
+/* Start of CMSMS style sheet 'common' */
+body {margin:0;padding:0;background-color:#48656e;color:#bbbbbb;font-family:Century Gothic,Arial,Verdana,sans-serif;font-size:14px;}
+a {text-decoration:none;color:#bbaaaa;}
+div.clear {clear:both;}
+
+#header {padding:10px;padding-bottom:15px;background-color:#000000;}
+#header h1 {padding:0;margin:0;font-size:35px;font-weight:normal;float:left;letter-spacing:0.2em;font-family:Century Gothic,Verdana,Arial;}
+#header ul {padding:0;padding-top:20px;margin:0;list-style:none;float:right;}
+#header ul li {display:inline;padding-right:5px;text-transform:lowercase;}
+#header ul li a:hover {text-decoration:overline;color:#dddddd;}
+#header ul li.currentpage a {text-decoration:overline;color:#dddddd;}
+
+#footer {border-top:1px dotted #333333; display:none;}
+#footer p {padding:0;margin:0;padding-top:3px;font-size:10px;text-align:center;}
+/* End of 'common' */
+

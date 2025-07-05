@@ -1,0 +1,9 @@
+/* Start of CMSMS style sheet 'image_detail' */
+#image_info {padding:20px;}
+#image_info h1 {text-align:center;font-weight:normal;font-size:20px;text-transform:capitalize;} 
+#image_info .local_nav {padding-top:10px;text-align:center;}
+#image_info .local_nav a:hover {color:#ffffff;}
+#image_info .image_detail {text-align:center;}
+#image_info .image_detail p {padding:0;margin:0;}
+/* End of 'image_detail' */
+

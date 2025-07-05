@@ -1,0 +1,21 @@
+/* Start of CMSMS style sheet 'image_gallery' */
+#content {padding:0 30px;width:1000px;margin:0 auto;}
+#content h1 {padding:0;margin:0;font-size:15px;}
+#content h1.title {padding:10px;margin:0;font-weight:normal;font-size:20px;text-align:center;text-transform:capitalize;letter-spacing:0.1em;}
+#content #intro {padding:0;margin:0;padding-right:10px;padding-top:20px;width:300px;float:left;font-size:13px;}
+#content #intro a {font-size:15px;font-weight:bold;color:#bbbbbb;}
+#content #intro a:hover {text-decoration:underline;color:#fffff;}
+#content #intro a.more_link {display:block;text-align:right;font-size:13px;}
+#content #intro a.more_link:hover {color:#ffffff;text-decoration:none;}
+
+#content #intro p {}
+#content #gallery {width:640px;float:left;padding:20px;}
+#content #gallery img {padding:0;margin:0;}
+#content #gallery img {border:1px solid #48656e;margin:10px;}
+#content #gallery a:hover img {border:1px dotted #fff;}
+
+/* iBox */
+#inner_content {color:#bbbbbb;padding:10px;font-size:14px;background-color:#48656e;}
+#inner_content h1 {font-size:1.2em;}
+/* End of 'image_gallery' */
+

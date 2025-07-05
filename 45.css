@@ -1,0 +1,32 @@
+/* Start of CMSMS style sheet 'interior_text' */
+#content {padding:0 30px;width:600px;margin:0 auto;padding-bottom:30px;}
+#content h1 {padding:0;margin:0;font-size:15px;}
+#content h1.title {padding:10px;margin:0;font-weight:normal;font-size:20px;text-align:center;text-transform:capitalize;letter-spacing:0.1em;}
+#content a:hover {color:#ffffff;}
+#content a.more_link {display:block;text-align:right;font-size:13px;}
+#content a.more_link:hover {color:#ffffff;text-decoration:none;}
+#content a img {border:none;}
+
+.strong {font-weight:bold;color:#dddddd;}
+.emph {font-style:italic;font-family:Arial;color:#cccccc;}
+.more_link {display:block;text-align:right;text-decoration:underline;}
+.float_lefttop {float:left;margin:5px 8px 5px 0;}
+.float_leftbottom {float:left;margin:5px 5px 0 0;}
+.float_righttop {float:right;margin:5px 0 5px 8px;}
+.float_rightbottom {float:right;margin:5px 0 0 5px;}
+
+/* Form styles */
+div#form_contact {padding:20px;background:url(uploads/images/mezzotints/chopshop5det.jpg);}
+div.contactform fieldset legend {display:none;}
+div.contactform fieldset {border:none;}
+div.contactform div {margin-bottom:10px;}
+div.contactform div label {display:block;}
+div.contactform input,textarea {background-color:#cccccc;margin-top:5px;}
+
+div.news_reviews_item {padding-bottom:1em;}
+div.news_reviews_item strong {color:#dddddd;}
+div.news_reviews_item em {font-family:Arial;color:#cccccc;}
+div.news_reviews_item p {padding:0;margin:0;}
+
+/* End of 'interior_text' */
+
